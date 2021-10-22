@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Rahul-kumar-hub/app-testing/static/css/main.a617e044.chunk.css",
-    "main.js": "/Rahul-kumar-hub/app-testing/static/js/main.6bc689e0.chunk.js",
-    "main.js.map": "/Rahul-kumar-hub/app-testing/static/js/main.6bc689e0.chunk.js.map",
-    "runtime-main.js": "/Rahul-kumar-hub/app-testing/static/js/runtime-main.512eed61.js",
-    "runtime-main.js.map": "/Rahul-kumar-hub/app-testing/static/js/runtime-main.512eed61.js.map",
-    "static/js/2.8833cd6e.chunk.js": "/Rahul-kumar-hub/app-testing/static/js/2.8833cd6e.chunk.js",
-    "static/js/2.8833cd6e.chunk.js.map": "/Rahul-kumar-hub/app-testing/static/js/2.8833cd6e.chunk.js.map",
-    "static/js/3.ff0311e9.chunk.js": "/Rahul-kumar-hub/app-testing/static/js/3.ff0311e9.chunk.js",
-    "static/js/3.ff0311e9.chunk.js.map": "/Rahul-kumar-hub/app-testing/static/js/3.ff0311e9.chunk.js.map",
-    "index.html": "/Rahul-kumar-hub/app-testing/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/Rahul-kumar-hub/app-testing/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/Rahul-kumar-hub/app-testing/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Rahul-kumar-hub/app-testing/static/media/logo.6ce24c58.svg"
+    "main.css": "/app-testing/static/css/main.a617e044.chunk.css",
+    "main.js": "/app-testing/static/js/main.6bc689e0.chunk.js",
+    "main.js.map": "/app-testing/static/js/main.6bc689e0.chunk.js.map",
+    "runtime-main.js": "/app-testing/static/js/runtime-main.3321ff1d.js",
+    "runtime-main.js.map": "/app-testing/static/js/runtime-main.3321ff1d.js.map",
+    "static/js/2.8833cd6e.chunk.js": "/app-testing/static/js/2.8833cd6e.chunk.js",
+    "static/js/2.8833cd6e.chunk.js.map": "/app-testing/static/js/2.8833cd6e.chunk.js.map",
+    "static/js/3.ff0311e9.chunk.js": "/app-testing/static/js/3.ff0311e9.chunk.js",
+    "static/js/3.ff0311e9.chunk.js.map": "/app-testing/static/js/3.ff0311e9.chunk.js.map",
+    "index.html": "/app-testing/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/app-testing/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/app-testing/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/app-testing/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.512eed61.js",
+    "static/js/runtime-main.3321ff1d.js",
     "static/js/2.8833cd6e.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.6bc689e0.chunk.js"
